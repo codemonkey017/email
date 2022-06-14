@@ -1,0 +1,329 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fit email</title>
+    <!-- Hotjar Tracking Code for https://kimma.dev/ -->
+    <script>
+        (function (h, o, t, j, a, r) {
+            h.hj = h.hj || function () { (h.hj.q = h.hj.q || []).push(arguments) };
+            h._hjSettings = { hjid: 2957432, hjsv: 6 };
+            a = o.getElementsByTagName('head')[0];
+            r = o.createElement('script'); r.async = 1;
+            r.src = t + h._hjSettings.hjid + j + h._hjSettings.hjsv;
+            a.appendChild(r);
+        })(window, document, 'https://static.hotjar.com/c/hotjar-', '.js?sv=');
+
+    </script>
+
+<style>
+    @media only screen and (max-width: 600px) {
+  .container {
+     width: 80% !important;
+  }
+
+  .image{
+      max-width: 100% !important;
+
+      
+  }
+
+  .text__grid--left, .text__grid--right, .img__grid--left, .img__grid--right {
+      width: 100%!important;
+      margin-bottom: 24px !important;
+    
+
+  }
+
+  .middle__grid--left, .middle__grid--right {
+    width: 100%!important;
+    text-align: center  !important;
+
+  }
+
+  /* .icon{
+    padding-right: 1% !important;
+     width:30% !important;
+  } */
+
+
+
+ 
+
+}
+</style>
+</head>
+
+<body style="margin:0; padding:0; box-sizing: border-box; font-family: Arial, Helvetica, sans-serif;">
+
+    <!-- start of email -->
+
+    <table align="center" width="100%" border="0" cellpadding="0" cellspacing="0" style="background-color:#bdbdbd;">
+        <tr>
+            <td>
+                <!-- start of container  -->
+                <table align="center" border="0" cellpadding="0" cellspacing="0" width="600" style="background-color: #F4F5F7;"  class="container ">
+
+                    <!-- start of header img  -->
+                    <tr>
+                        <td>
+                            <table align="center" border="0" cellpadding="0" cellspacing="0"width="90%" style="background:#F4F5F7" >
+                                <tr>
+                                    <td>
+                                        <img align="center" width="100%" src="https://media.discordapp.net/attachments/975448018943893554/975996616165195816/header.png?width=1025&height=167" alt="" class="image">
+                                    </td>
+                                </tr>
+                            </table>
+
+                        </td>
+                    </tr>
+
+                    <!-- start of hero img  -->
+                    <tr>
+                        <td>
+                            <table align="center" border="0" cellpadding="0" cellspacing="0"width="90%" style="background:#dadada" >
+                                <tr>
+                                    <td>
+                                        <img align="center" width="100%" src="https://cdn.discordapp.com/attachments/975448018943893554/975925943803711598/header.png" alt="" class="image">
+                                    </td>
+                                </tr>
+                            </table>
+
+                        </td>
+                    </tr>
+
+                    <!-- start of hero text  -->
+                    <tr>
+                        <td>
+                            <table align="center" border="0" cellpadding="0" cellspacing="0"width="90%" style="padding:24px 0; text-align: center; color:#2E3135" >
+                                <tr>
+                                    <td>
+                                        <h3 style="letter-spacing: 1px">Want more info about Live Workouts?</h3>
+                                    </td>
+                                </tr>
+                            </table>
+                        </td>
+                    </tr>
+
+                    <!-- start of img grid  -->
+                    <tr>
+                        <td>
+                            <table align="center" border="0" cellpadding="0" cellspacing="0"width="90%" style="   color:#2E3135; " >
+                                <tr>
+                                    <td>
+                                        <table class="img__grid--left" align="left" border="0" cellpadding="0" cellspacing="0"style="width:47%; padding: 0 0 12px; background: white; border-radius:10px; box-shadow: 0px 3px 12px 0px rgba(0,0,0,0.45);"  >
+                                            <tr>
+                                                <td>
+                                                   <a href=""> <img align="center" width="100%" style="border-top-left-radius: 10px; border-top-right-radius: 10px" src="https://cdn.discordapp.com/attachments/975448018943893554/975925944051171408/pic-1.png" alt="" class="image"></a>
+                                                   <h3 style="padding: 0 20px; letter-spacing: 1px;">Behind the secenes</h3>
+                                                   <p style="font-size:12px; text-align: left; margin-top: -12px; padding: 0 20px;">Read time . 1 min.</p>
+                                                    
+                                                </td>
+                                            </tr>
+                                        </table>
+                                        <table class="img__grid--right" align="right" border="0" cellpadding="0" cellspacing="0" style="width:47%; border-radius: 10px;  padding: 0 0 12px; background: white; box-shadow: 0px 3px 12px 0px rgba(0,0,0,0.45);" >
+                                            <tr>
+                                                <td>
+                                                  <a href=""><img align="center" width="100%" style="border-top-left-radius: 10px; border-top-right-radius: 10px;" src="https://media.discordapp.net/attachments/975448018943893554/975925941677203456/pic-2.png" alt="" class="image"></a>
+                                                  <h3 style="padding: 0 10px; letter-spacing: 1px;">Meet your trainers</h3>
+                                                  <p style="font-size:12px; text-align: left; margin-top: -12px; padding: 0 10px;">Read time . 2 min.</p>
+                                                </td>
+                                            </tr>
+                                        </table>
+                                    </td>
+                                </tr>
+                               
+                        </td>
+                    </tr>
+
+                      <!-- start of middle text  -->
+                      <tr>
+                        <td>
+                            <table align="center" border="0" cellpadding="0" cellspacing="0"width="90%" style="padding:24px 0; text-align: center; color:#2E3135" >
+                                <tr>
+                                    <td>
+                                        <h3 style="letter-spacing: 1px">Community focused</h3>
+                                    </td>
+                                </tr>
+                            </table>
+                        </td>
+                    </tr>
+
+                     <!-- start of middle img grid  -->
+                     <tr>
+                        <td>
+                            <table align="center" border="0"  cellpadding="0" cellspacing="0"width="100%"   style="   color:#2E3135; background-color: #ffffff; box-shadow: 0px 3px 12px 0px rgba(0,0,0,0.45); " >
+                                <tr>
+                                    <td >
+                                        <table class="middle__grid--left" align="left" border="0" cellpadding="0" cellspacing="0"style="width:50%; background: white; border:none; "  >
+                                            <tr>
+                                                <td >
+                                                   <a href=""> <img align="center" width="100%" src="https://media.discordapp.net/attachments/975448018943893554/975984634192085042/pic-4.png" alt="" class="image"></a>
+                                                    
+                                                </td>
+                                            </tr>
+                                        </table>
+                                        <table class="middle__grid--right" align="right" border="0" cellpadding="0" cellspacing="0"  style="width:50%;  " >
+                                            <tr>
+                                                <td style="padding:0 12px">
+                                                  <h3 class="mid__grid--h3" style="letter-spacing: 1px;">Live workout testimonials</h3>
+                                                  <p class="mid__grid--p" style="font-size:12px; ">Here's what the iFit Community is saying about Live Workouts.</p>
+                                                  <p class="mid__grid--p2" style="font-size:12px;">Read time . 2 min.</p>
+                                                </td>
+                                            </tr>
+                                        </table>
+                                    </td>
+                                </tr>
+                            
+                            </table>
+                                   
+                              
+                               
+                        </td>
+                    </tr>
+                     <!-- start of middle 2nd img grid  -->
+                     <tr >
+                        <td >
+                            <table align="center" border="0" border-spacing ="0" cellpadding="0" cellspacing="0"width="100%"   style="color:#2E3135; background-color: #ffffff; box-shadow: 0px 3px 12px 0px rgba(0,0,0,0.45); margin: 24px 0;  " >
+                                <tr>
+                                    <td>
+                                        <table class="middle__grid--left" align="left" border="0" cellpadding="0" cellspacing="0"style="width:50%; background: white; border:none; "  >
+                                            <tr>
+                                                <td  >
+                                                   <a href=""> <img align="center" src="https://cdn.discordapp.com/attachments/975448018943893554/975925941958238268/pic-4.png" alt="" style="width:100%" class="image"></a>
+                                                    
+                                                </td>
+                                            </tr>
+                                        </table>
+
+                                        <table class="middle__grid--right" align="right" border="0" cellpadding="0" cellspacing="0" style="width:50%;  " >
+                                            <tr>
+                                                <td style="padding:0 12px" >
+                                                  <h3 class="mid__grid--h3" style="letter-spacing: 1px;">1.3 million masks</h3>
+                                                  <p class="mid__grid--p" style="font-size:12px;">iFit is committed to helping COVID‐19 containment efforts.</p>
+                                                  <p class="mid__grid--p2" style="font-size:12px">Read time • 3 min..</p>
+                                                </td>
+                                            </tr>
+                                        </table>
+                                    </td>
+                                </tr>
+                            
+                            </table>
+                                   
+                              
+                               
+                        </td>
+                    </tr>
+
+                    <!-- start of footer image  -->
+                    <!-- <tr>
+                        <td>
+                            <table align="center" border="0" cellpadding="0" cellspacing="0"width="100%" style="font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Ubuntu,sans-serif; background-color: rgb(0, 0, 0); text-align: center; color: #525F7F;" >
+                                <tr >
+                                    <td >
+
+                                      <img src="https://media.discordapp.net/attachments/975448018943893554/975988577689276436/5.png" class="image" height="300"  width="100%" alt="">
+                                        
+                                    </td>
+                                </tr>
+                            </table>
+                        </td>
+                    </tr> -->
+
+                    <!-- start of footer icon  -->
+                    <tr>
+                        <td>
+                            <table align="center" border="0" cellpadding="0" cellspacing="0"width="100%" style="text-align: center; margin: 12px 0;" >
+                                <tr >
+                                    <td style="width:100%" >
+
+                                     <a href=""> <img src="https://media.discordapp.net/attachments/975448018943893554/975925942419599400/icon-fb.png" class="image"  style="padding-right: 5%; width:10%" class="icon"   alt=""></a>
+                                     <a href=""> <img src="https://media.discordapp.net/attachments/975448018943893554/975925942633496636/icon-insta.png" class="image"    alt="" style="padding-right: 5%; width:10%" class="icon"></a>
+                                    <a href="">  <img src="https://media.discordapp.net/attachments/975448018943893554/975925942897745970/icon-twitter.png" class="image" style="padding-right: 5%; width:10%" class="icon"   alt=""  ></a>
+                                     <a href=""> <img src="https://media.discordapp.net/attachments/975448018943893554/975925943178776676/icon-pin.png" class="image"   alt="" style="padding-right: 5%; width:10%" class="icon"></a>
+                                    <a href="">  <img src="https://media.discordapp.net/attachments/975448018943893554/975925943594008596/icon-youtube.png" class="image"   alt=""  style="padding-right: 5%; width:10%" class="icon">
+                                    </a>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td style="border-bottom: 1px solid rgb(179, 179, 179); padding-bottom:24px">
+
+                                    </td>
+                                </tr>
+                            </table>
+                        </td>
+                    </tr>
+
+                   
+                  
+                    
+                    
+                     <!-- start of footer  end -->
+                     <tr>
+                        <td>
+
+                            <!-- start of footer container  -->
+                            <table align="center" border="0" cellpadding="0" cellspacing="0"width="100%" style="text-align: center; color: white; font-size: 12px;">
+                                <tr>
+                                    <td>
+                                         <!-- start of footer content  -->
+                                        <table align="center" border="0" cellpadding="0" cellspacing="0"width="90%" style="text-align: center; color: #7E7D7E; font-size: 12px; padding-top: 10px; ">
+                                            <tr >
+                                                <td >
+                                                  <p>View our  <a style="text-decoration:none; color: #7E7D7E" href="">Privacy Policy</a></p>
+                                                </td>
+                                            </tr>
+                                        </table>
+                                        <tr>
+                                            <td>
+                                                <table align="center" border="0" cellpadding="0" cellspacing="0"width="90%" style="text-align: center; color: #7E7D7E; font-size: 10px; padding: 12px 0 48px ">
+                                                    <tr >
+                                                        <td style="font-weight:600" >
+                                                            <a style="text-decoration:none; color: #7E7D7E" href="">CONTACT |</a>
+                                                            <a style="text-decoration:none; color: #7E7D7E" href="">SUPPORT |</a>
+                                                            <a style="text-decoration:none; color: #7E7D7E" href="">UNSUBSCRIBE</a>
+                                                 
+                                                        </td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td  style="padding-top:12px">
+                                                            <p>ICON Health & Fitness, Inc 1500 S. 1000 W. Logan, UT 84321, US.</p>
+                                                            <p>©2020 iFit. All rights reserved.</p>
+                                                        </td>
+                                                    </tr>
+                                                </table>
+                                            </td>
+                                        </tr>
+                                    </td>
+                                </tr>
+
+
+
+                    <!-- end of container  -->
+                </table>
+
+
+                <!-- end of email  -->
+            </td>
+        </tr>
+    </table>
+  
+        
+
+             
+
+
+</body>
+
+</html>
+        
+
+             
+
+
+</body>
+
+</html>
